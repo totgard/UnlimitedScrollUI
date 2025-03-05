@@ -327,9 +327,6 @@ namespace UnlimitedScrollUI
 				default:
 					throw new ArgumentOutOfRangeException();
 			}
-			contentTrans.anchoredPosition = contentPosition;
-			contentTrans.anchorMin = Vector2.up;
-			contentTrans.anchorMax = Vector2.up;
 
 			currentCells = new List<Cell>();
 
