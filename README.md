@@ -1,5 +1,4 @@
 # Unlimited Scroll UI
-#### version 1.4.1
 
 ## Summary
 A plugin in Unity that let you easily create scroll views with unlimited items. See in [asset store](http://u3d.as/2z2a).
@@ -20,11 +19,3 @@ If you use grid scroller, you can also change its alignment.
 
 **Step 5:** To test it out immediately, add a `ScrollerTest` script below `Unlimited Scroller`, reference to your cell and set total count.  
 
-## References
-Please go to this website for full reference: https://brian-jiang.github.io/UnlimitedScrollUI/api/UnlimitedScrollUI.html
-
-## Supports
-If you have any questions, please post [here](https://github.com/Brian-Jiang/UnlimitedScrollUI)
-or comment [here](http://u3d.as/2z2a)  
-Or email me directly at: [bjjx1999@live.com](mailto:bjjx1999@live.com)  
-Thank you for your support!
